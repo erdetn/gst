@@ -1,0 +1,10 @@
+# Ignore all
+*
+samples/*.c
+test/*.c
+
+# Unignore all with extensions
+!*.*
+
+# Unignore all dirs
+!*/
